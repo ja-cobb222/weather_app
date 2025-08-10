@@ -48,7 +48,6 @@ Development was carried out in a Python virtual environment to manage dependenci
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [FastAPI Documentation](https://fastapi.tiangolo.com/)
 * [OpenWeatherMap API Documentation](https://openweathermap.org/api)
 * [Python AsyncIO Guide](https://realpython.com/async-io-python/)
